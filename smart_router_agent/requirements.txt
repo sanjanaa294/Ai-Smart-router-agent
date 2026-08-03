@@ -1,0 +1,12 @@
+# Integration requirements for pdf-rag-chatbot and TASK2 MCP client
+langchain
+langchain-community
+langchain-google-genai
+langchain-chroma
+chromadb
+pypdf
+fastmcp
+langgraph
+langchain-mcp-adapters
+python-dotenv
+nest_asyncio

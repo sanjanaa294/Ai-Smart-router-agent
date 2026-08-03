@@ -1,0 +1,23 @@
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+pdf-rag-chatbot/venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Environment / secret files
+.env
+*.env
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
