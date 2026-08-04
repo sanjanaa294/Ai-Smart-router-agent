@@ -53,4 +53,4 @@ TASK3/
    ..\TASK2\venv\Scripts\python.exe app.py
    ```
 
-3. Type your question in the CLI!
+3. Type your question in the CLI! 
